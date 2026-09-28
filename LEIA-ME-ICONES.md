@@ -1,0 +1,1 @@
+Ícones do Thumber Studio Portátil inspirados no Thumber Bot. O pacote PWA completo já contém os ícones e o manifesto atualizado. Tamanhos padrão: 192 e 512 px; versões maskable: 192 e 512 px; Apple: 180 px; favicon: 64 px.
