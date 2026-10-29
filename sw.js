@@ -1,4 +1,4 @@
-const CACHE_NAME = 'thumber-app-c0118a39e498';
+const CACHE_NAME = 'thumber-app-ab5a2a6f310e';
 const ASSETS = ['./', './index.html', './manifest.json', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
